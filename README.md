@@ -8,6 +8,3 @@
 - 💬 Ask me about **C#, .NET Core**
 - 📫 Reach me via **vuqarss@hotmail.com**
 - 🌌🛰 Space enthusiast
-
-## Connect with me via:
-- Email: vuqarss@hotmail.com

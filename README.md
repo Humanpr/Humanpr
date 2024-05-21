@@ -1,4 +1,4 @@
-Hi , I'm Vugar Samadov. I am a Software Developer.
+Hi , I'm Vugar. I am a Software Developer.
 
 - 👀 I’m currently looking for a job
 - 🔭 My interest areas include competitive programming, amateour radio and anything related to aeronautics and engineering
